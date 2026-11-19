@@ -13,6 +13,10 @@ I'm the founder and only engineer at **[Treasure It](https://treasureit.fun)**, 
 **[Emit Once, Notify Anywhere](https://www.youtube.com/watch?v=UIBd0D4ny78&t=26s)**, App.js Conf 2026, Kraków
 How Treasure It uses typed domain events to coordinate push, email, and in-app notifications from one place, with per-user preferences and delivery failures that don't break the rest of the app. ([companion repo](https://github.com/benschac/notification-appjs-talk))
 
+#### ✍️ Writing
+
+My latest blog post is **[Building a Credit Ledger with Postgres for Treasure It](https://www.benjaminschachter.com/blog/creating-double-sided-accounting)**. It covers how Treasure It's credit ledger keeps balances and history in sync, reserves credits for pickups, and handles retries without charging anyone twice. [More posts →](https://www.benjaminschachter.com/blog)
+
 #### 📌 Things I've built
 
 | Project | What it is | Stack |
