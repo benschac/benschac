@@ -15,7 +15,7 @@ How Treasure It uses typed domain events to coordinate push, email, and in-app n
 
 #### ✍️ Writing
 
-My latest blog post is **[Building a Credit Ledger with Postgres for Treasure It](https://www.benjaminschachter.com/blog/creating-double-sided-accounting)**. It covers how Treasure It's credit ledger keeps balances and history in sync, reserves credits for pickups, and handles retries without charging anyone twice. [More posts →](https://www.benjaminschachter.com/blog)
+My latest blog post is **[Building a Credit Ledger with Postgres for Treasure It](https://www.benjaminschachter.com/blog/building-a-credit-ledger-with-postgres)**. It covers how Treasure It's credit ledger keeps balances and history in sync, reserves credits for pickups, and handles retries without charging anyone twice. [More posts →](https://www.benjaminschachter.com/blog)
 
 #### 📌 Things I've built
 
