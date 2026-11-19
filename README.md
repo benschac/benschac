@@ -4,7 +4,7 @@ I'm a product engineer in New York. I work mostly in **TypeScript, React, and Re
 
 I'm the founder and only engineer at **[Treasure It](https://treasureit.fun)**, a neighborhood marketplace for giving things away and picking them up. I built all of it: the web app, the Expo app, the APIs, the Postgres backend, and the notification system. I also run it in production.
 
-**Treasure It:** [treasureit.fun](https://treasureit.fun) · **Website:** [benjaminschachter.com](https://www.benjaminschachter.com) · **LinkedIn:** [benjaminschachter](https://www.linkedin.com/in/benjaminschachter/) · **Bluesky:** [@benschac](https://bsky.app/profile/benschac.bsky.social)
+**Treasure It:** [treasureit.fun](https://treasureit.fun) · **Website:** [benjaminschachter.com](https://www.benjaminschachter.com) · **LinkedIn:** [benjaminschachter](https://www.linkedin.com/in/benjaminschachter/) · **Bluesky:** [@benschac](https://bsky.app/profile/benschac.bsky.social) · **X:** [@benschac](https://x.com/benschac)
 
 ---
 
